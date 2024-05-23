@@ -1,0 +1,333 @@
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\bin\Debug\net8.0\TesteMVC.staticwebassets.runtime.json
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\bin\Debug\net8.0\TesteMVC.exe
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\bin\Debug\net8.0\TesteMVC.deps.json
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\bin\Debug\net8.0\TesteMVC.runtimeconfig.json
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\bin\Debug\net8.0\TesteMVC.dll
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\bin\Debug\net8.0\TesteMVC.pdb
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\TesteMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\TesteMVC.AssemblyInfoInputs.cache
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\TesteMVC.AssemblyInfo.cs
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\TesteMVC.csproj.CoreCompileInputs.cache
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\TesteMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\TesteMVC.RazorAssemblyInfo.cache
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\TesteMVC.RazorAssemblyInfo.cs
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\staticwebassets\msbuild.TesteMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.TesteMVC.props
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TesteMVC.props
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TesteMVC.props
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\scopedcss\bundle\TesteMVC.styles.css
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\scopedcss\projectbundle\TesteMVC.bundle.scp.css
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\TesteMVC.dll
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\refint\TesteMVC.dll
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\TesteMVC.pdb
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\TesteMVC.genruntimeconfig.cache
+C:\Users\antoniooliveira\Documents\TesteASP\TesteMVC\obj\Debug\net8.0\ref\TesteMVC.dll
+C:\Users\antoniooliveira\Documents\TesteASP\testemvc\obj\Debug\net8.0\TesteMVC.sourcelink.json
+C:\Users\antoniooliveira\Documents\TesteASP\testemvc\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\antoniooliveira\Documents\TesteASP\testemvc\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\antoniooliveira\Documents\TesteASP\testemvc\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\antoniooliveira\Documents\TesteASP\testemvc\bin\Debug\net8.0\Npgsql.dll
+C:\Users\antoniooliveira\Documents\TesteASP\testemvc\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\antoniooliveira\Documents\TesteASP\testemvc\obj\Debug\net8.0\TesteMVC.csproj.AssemblyReference.cache
+C:\Users\antoniooliveira\Documents\TesteASP\testemvc\obj\Debug\net8.0\TesteMVC.csproj.Up2Date
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\Humanizer.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\Testeasp\testemvc\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\appsettings.json
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\TesteMVC.staticwebassets.runtime.json
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\TesteMVC.exe
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\TesteMVC.deps.json
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\TesteMVC.runtimeconfig.json
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\TesteMVC.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\TesteMVC.pdb
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Humanizer.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Npgsql.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\TesteMVC.csproj.AssemblyReference.cache
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\TesteMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\TesteMVC.AssemblyInfoInputs.cache
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\TesteMVC.AssemblyInfo.cs
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\TesteMVC.csproj.CoreCompileInputs.cache
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\TesteMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\TesteMVC.RazorAssemblyInfo.cache
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\TesteMVC.RazorAssemblyInfo.cs
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\TesteMVC.sourcelink.json
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\staticwebassets\msbuild.TesteMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\staticwebassets\msbuild.build.TesteMVC.props
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TesteMVC.props
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TesteMVC.props
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\scopedcss\bundle\TesteMVC.styles.css
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\scopedcss\projectbundle\TesteMVC.bundle.scp.css
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\TesteMVC.csproj.Up2Date
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\TesteMVC.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\refint\TesteMVC.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\TesteMVC.pdb
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\TesteMVC.genruntimeconfig.cache
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\obj\Debug\net8.0\ref\TesteMVC.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HailK\OneDrive\Área de Trabalho\teste_dotnet\aspnetsemed\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\appsettings.json
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\TesteMVC.staticwebassets.runtime.json
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\TesteMVC.exe
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\TesteMVC.deps.json
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\TesteMVC.runtimeconfig.json
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\TesteMVC.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\TesteMVC.pdb
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Humanizer.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Npgsql.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\TesteMVC.csproj.AssemblyReference.cache
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\TesteMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\TesteMVC.AssemblyInfoInputs.cache
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\TesteMVC.AssemblyInfo.cs
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\TesteMVC.csproj.CoreCompileInputs.cache
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\TesteMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\TesteMVC.RazorAssemblyInfo.cache
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\TesteMVC.RazorAssemblyInfo.cs
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\TesteMVC.sourcelink.json
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\staticwebassets\msbuild.TesteMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\staticwebassets\msbuild.build.TesteMVC.props
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TesteMVC.props
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TesteMVC.props
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\scopedcss\bundle\TesteMVC.styles.css
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\scopedcss\projectbundle\TesteMVC.bundle.scp.css
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\TesteMVC.csproj.Up2Date
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\TesteMVC.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\refint\TesteMVC.dll
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\TesteMVC.pdb
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\TesteMVC.genruntimeconfig.cache
+C:\Users\antoniooliveira\Documents\TesteASP\aspnetsemed\obj\Debug\net8.0\ref\TesteMVC.dll
